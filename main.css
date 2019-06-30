@@ -1,0 +1,17 @@
+html,body{
+    background-color: hotpink;
+}
+
+header{
+    font-size: 2em;
+    color: blue;
+}
+
+p{
+    text-align: center;
+}
+
+textarea{
+    width: 500px;
+    background-color: white;
+}
